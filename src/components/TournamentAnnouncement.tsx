@@ -60,7 +60,7 @@ const TournamentAnnouncement: React.FC<TournamentAnnouncementProps> = ({
           {/* Date Announcement */}
           <div className="inline-flex items-center gap-3 px-8 py-4 bg-gradient-to-r from-slate-800/80 to-slate-900/80 border border-emerald-500/20 rounded-2xl mb-8">
             <Calendar className="w-6 h-6 text-emerald-400" />
-            <span className="text-white font-semibold text-lg">Saturday, October 25th • 12pm-8pm</span>
+            <span className="text-white font-semibold text-lg">TBD • 12pm-8pm</span>
           </div>
 
           {/* Call to Action */}

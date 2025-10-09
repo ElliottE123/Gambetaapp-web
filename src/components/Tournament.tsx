@@ -25,8 +25,8 @@ const Tournament = () => {
     {
       icon: Calendar,
       title: "Tournament Date",
-      value: "Saturday, October 25th",
-      description: "12pm-8pm single day event"
+      value: "TBD",
+      description: "single day event"
     },
     {
       icon: MapPin,
@@ -109,7 +109,7 @@ const Tournament = () => {
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-8">
               <div className="inline-flex items-center gap-3 px-6 py-3 bg-gradient-to-r from-slate-800/80 to-slate-900/80 border border-emerald-500/20 rounded-2xl">
                 <Calendar className="w-5 h-5 text-emerald-400" />
-                <span className="text-white font-semibold">Saturday, October 25th • 12pm-8pm</span>
+                <span className="text-white font-semibold">TBD • 12pm-8pm</span>
               </div>
               <div className="inline-flex items-center gap-3 px-6 py-3 bg-gradient-to-r from-slate-800/80 to-slate-900/80 border border-emerald-500/20 rounded-2xl">
                 <span className="text-emerald-400 font-semibold">$20</span>
