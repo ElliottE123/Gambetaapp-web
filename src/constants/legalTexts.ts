@@ -85,6 +85,46 @@ We may update this Privacy Policy. If we make material changes, we will provide 
 If you have questions or requests regarding privacy, contact: support@gambeta.app
 `;
 
+// Additional analytics & hosting details inserted for the public privacy page
+export const privacyPolicyAnalytics = `
+Analytics & Hosting (added)
+
+1. Analytics and Tracking
+- We use analytics tools to understand how people use Gambeta so we can improve the product. These tools may collect anonymous usage data such as pages visited, clicks, time spent, device and browser information, and IP address (for coarse geolocation). We currently use or may use the following providers:
+  - Google Analytics (GA4): a free analytics service by Google that uses cookies and identifiers to measure website activity. If enabled, we load the gtag.js script and may send page_view events from our single-page app on route changes. GA4 stores limited pseudonymous identifiers and aggregates usage data in the Google Analytics property we control.
+  - Privacy-focused analytics (e.g., Umami or Plausible): these services collect simple pageview metrics and basic referrer data. Some are self-hosted and do not use cookies; others are hosted services with minimal data retention.
+
+2. Why we use analytics
+- To measure site health and performance, fix bugs, learn which pages and features are most used, and improve the product experience.
+
+3. What we collect for analytics
+- Typical analytics data includes: page path, referrer, event names, timestamps, device/browser type, and coarse location derived from IP. We do not use analytics to build user profiles or to sell data.
+
+4. Cookies and client storage
+- Some analytics providers set cookies or use local storage to persist anonymous identifiers. If you block cookies at the browser level, some analytics may be limited or disabled.
+
+5. Opt-out and controls
+- If you do not want to be tracked by Google Analytics, you can install the Google Analytics Opt-out Browser Add-on. For other analytics providers, consult their documentation for opt-out options.
+- You can also disable tracking by turning off cookies in your browser or by using privacy extensions that block analytics scripts.
+
+6. Hosting and third-party services
+- Hosting: This website may be hosted on GitHub Pages or Firebase Hosting. Hosting providers store the site assets (HTML, CSS, JS, images) and serve them over HTTPS. Static hosting does not by itself collect form submissions or analytics; those are performed by separate services if enabled.
+- Third-party services: We use third-party services to provide functionality (e.g., Google Sign-In, Firebase Auth/Firestore, Stripe for payments, Google Maps). Each third-party has its own data practices; we recommend reviewing their privacy policies.
+
+7. Google Forms and Google Sheets
+- If you use forms embedded from Google (Forms or Apps Script endpoints) those submissions go to Google. We do not control Google’s data handling for those services. If you submit data via an embedded form on our site, that data will be processed according to Google’s policies.
+
+8. Data retention for analytics
+- Analytics data may be retained by the analytics provider according to their retention policies. We generally keep aggregated metrics for product analysis; raw logs or identifiers are retained only as needed and subject to provider retention settings.
+
+9. Contact and changes
+- If you want analytics data deleted or have questions about analytics or hosting, contact support@gambeta.app. We will respond to reasonable requests to delete or restrict data where feasible and required by law.
+`;
+
+// To include these analytics/hosting details on the published privacy page,
+// the `Privacy` route renders the `privacyPolicy` string. We'll append the
+// analytics details at runtime so the page shows both sections.
+
 export const termsOfService = `
 Gambeta Terms of Service
 ${effectiveDate}

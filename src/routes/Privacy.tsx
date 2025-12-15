@@ -1,5 +1,5 @@
 import React from 'react';
-import { privacyPolicy, effectiveDate } from '../constants/legalTexts';
+import { privacyPolicy, privacyPolicyAnalytics, effectiveDate } from '../constants/legalTexts';
 
 const Privacy: React.FC = () => {
   return (
@@ -8,7 +8,9 @@ const Privacy: React.FC = () => {
         <h1 className="text-3xl md:text-4xl font-bold text-white mb-2">Privacy Policy</h1>
         <p className="text-slate-400 mb-8">{effectiveDate}</p>
         <article className="prose prose-invert max-w-none">
-          {privacyPolicy.split('\n').map((line, idx) => (
+          {(
+            (privacyPolicy + '\n\n' + privacyPolicyAnalytics)
+          ).split('\n').map((line, idx) => (
             <p key={idx} className="text-slate-300 whitespace-pre-wrap leading-relaxed">{line}</p>
           ))}
         </article>
