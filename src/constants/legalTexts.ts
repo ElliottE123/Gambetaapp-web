@@ -1,6 +1,6 @@
 // Centralized legal texts for Gambeta. Keep this as the single source of truth.
 
-export const effectiveDate = 'Effective: September 10th, 2025';
+export const effectiveDate = 'Effective: January 1, 2026';
 
 export const privacyPolicy = `
 Gambeta Privacy Policy
