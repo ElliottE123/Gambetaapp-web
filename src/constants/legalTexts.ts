@@ -1,318 +1,493 @@
-// Centralized legal texts for Gambeta. Keep this as the single source of truth.
+<a id="what-information-do-we-collect"></a>
+1. WHAT INFORMATION DO WE COLLECT?
+Personal information you disclose to us
+<a id="how-do-we-process-your-information"></a>
+2. HOW DO WE PROCESS YOUR INFORMATION?
+We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with the law. 
+<a id="what-legal-bases-do-we-rely-on-to-process-your-personal-information"></a>
+3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?
+We only process your personal information when we believe it is necessary and we have a valid legal reason (i.e., legal basis) to do so under applicable law, like with your consent, to comply with laws, to provide you with services to enter into or fulfill our contractual obligations, to protect your rights, or to fulfill our legitimate business interests.
+<a id="when-and-with-whom-do-we-share-your-personal-information"></a>
+4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
+We may share information in specific situations and with specific third parties.
+<a id="what-is-our-stance-on-third-party-websites"></a>
+5. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?
+We are not responsible for the safety of any information that you share with third parties that we may link to or who advertise on our Services, but are not affiliated with, our Services.
+<a id="do-we-use-cookies-and-other-tracking-technologies"></a>
+6. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
+We may use cookies and other tracking technologies to collect and store your information.
+<a id="how-do-we-handle-your-social-logins"></a>
+7. HOW DO WE HANDLE YOUR SOCIAL LOGINS?
+If you choose to register or log in to our Services using a social media account, we may have access to certain information about you.
+<a id="how-long-do-we-keep-your-information"></a>
+8. HOW LONG DO WE KEEP YOUR INFORMATION?
+We keep your information for as long as necessary to fulfill the purposes outlined in this Privacy Notice unless otherwise required by law.
+<a id="how-do-we-keep-your-information-safe"></a>
+9. HOW DO WE KEEP YOUR INFORMATION SAFE?
+We aim to protect your personal information through a system of organizational and technical security measures.
+<a id="what-are-your-privacy-rights"></a>
+10. WHAT ARE YOUR PRIVACY RIGHTS?
+Depending on your state of residence in the US or in some regions, such as the European Economic Area (EEA), United Kingdom (UK), Switzerland, and Canada, you have rights that allow you greater access to and control over your personal information.
+<a id="controls-for-do-not-track-features"></a>
+11. CONTROLS FOR DO-NOT-TRACK FEATURES
+Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (DNT) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected.
+<a id="do-united-states-residents-have-specific-privacy-rights"></a>
+12. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+If you are a resident of California, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah, or Virginia, you may have the right to request access to and receive details about the personal information we maintain about you and how we have processed it, correct inaccuracies, get a copy of, or delete your personal information.
+<a id="do-other-regions-have-specific-privacy-rights"></a>
+13. DO OTHER REGIONS HAVE SPECIFIC PRIVACY RIGHTS?
+We collect and process your personal information under the obligations and conditions set by Australia's Privacy Act 1988 and New Zealand's Privacy Act 2020 (Privacy Act).
+<a id="do-we-make-updates-to-this-notice"></a>
+14. DO WE MAKE UPDATES TO THIS NOTICE?
+Yes, we will update this notice as necessary to stay compliant with relevant laws.
+<a id="how-can-you-contact-us-about-this-notice"></a>
+15. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+If you have questions or comments about this notice, you may email us at support@gambetaapp.com or contact us by post at:
+<a id="how-can-you-review-update-or-delete-the-data-we-collect-from-you"></a>
+16. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+Based on the applicable laws of your country or state of residence in the US, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information.
+This Privacy Notice for GAMBETA LLC (doing business as Gambeta) ("we," "us," or "our"), describes how and why we might access, collect, store, use, and/or share ("process") your personal information when you use our services ("Services"), including when you:
+• Visit our website at https://gambetaapp.com/ or any website of ours that links to this Privacy Notice
+• Download and use our mobile application (Gambeta), or any other application of ours that links to this Privacy Notice
+Questions or concerns? Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you still have any questions or concerns, please contact us at support@gambetaapp.com.
+SUMMARY OF KEY POINTS
+This summary provides key points from our Privacy Notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents below to find the section you are looking for.
+What personal information do we process? When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about the personal information you disclose to us.
+How do we process your information? We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with the law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about how we process your information.
+In what situations and with which parties do we share personal information? We may share information in specific situations and with specific third parties. Learn more about when and with whom we share your personal information.
+How do we keep your information safe? We have adequate organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be secure, so we aren’t responsible in the event of hacks, cybercriminals, improperly collecting, accessing, stealing, or modifying your information. Learn more about how we keep your information safe.
+What are your rights? Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about your privacy rights.
+How do you exercise your rights? The easiest way to exercise your rights is by submitting a data subject access request or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
+Want to learn more about what we do with any information we collect? Review the Privacy Notice in full.
+TABLE OF CONTENTS
+TABLE OF CONTENTS
+- [1. WHAT INFORMATION DO WE COLLECT?](#what-information-do-we-collect)
+- [2. HOW DO WE PROCESS YOUR INFORMATION?](#how-do-we-process-your-information)
+- [3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?](#what-legal-bases-do-we-rely-on-to-process-your-personal-information)
+- [4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#when-and-with-whom-do-we-share-your-personal-information)
+- [5. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?](#what-is-our-stance-on-third-party-websites)
+- [6. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?](#do-we-use-cookies-and-other-tracking-technologies)
+- [7. HOW DO WE HANDLE YOUR SOCIAL LOGINS?](#how-do-we-handle-your-social-logins)
+- [8. HOW LONG DO WE KEEP YOUR INFORMATION?](#how-long-do-we-keep-your-information)
+- [9. HOW DO WE KEEP YOUR INFORMATION SAFE?](#how-do-we-keep-your-information-safe)
+- [10. WHAT ARE YOUR PRIVACY RIGHTS?](#what-are-your-privacy-rights)
+- [11. CONTROLS FOR DO-NOT-TRACK FEATURES](#controls-for-do-not-track-features)
+- [12. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](#do-united-states-residents-have-specific-privacy-rights)
+- [13. DO OTHER REGIONS HAVE SPECIFIC PRIVACY RIGHTS?](#do-other-regions-have-specific-privacy-rights)
+- [14. DO WE MAKE UPDATES TO THIS NOTICE?](#do-we-make-updates-to-this-notice)
+- [15. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#how-can-you-contact-us-about-this-notice)
+- [16. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#how-can-you-review-update-or-delete-the-data-we-collect-from-you)
 
-export const effectiveDate = 'Effective: September 10th, 2025';
+1. WHAT INFORMATION DO WE COLLECT?
 
-export const privacyPolicy = `
-Gambeta Privacy Policy
-${effectiveDate}
+Personal information you disclose to us
 
-1. Overview
-Gambeta ("we", "our", "us") is a soccer community platform that helps players find fields and games, join groups, chat, participate in tournaments, vote on MVPs, and track ratings. This Privacy Policy explains what we collect, how we use it, how it’s shared, and your choices.
+We collect personal information that you voluntarily provide to us when you register on the Services, express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.
 
-By using Gambeta, you agree to the collection and use of information in accordance with this policy.
+Personal Information Provided by You. The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make, and the products and features you use. The personal information we collect may include the following:
+• names
+• email addresses
+• usernames
+• passwords
 
-2. Information We Collect
-A. Information You Provide
-- Account details: email, password (hashed by our auth provider), display name, username, photo (optional), and profile details you add.
-- Social sign-in: When you use Google or Apple Sign In, we receive basic profile info and an identity token from those providers.
-- User-generated content: messages, reactions, images, group names, team info, and other content you submit in chats and groups.
-- Tournament data: team membership, payment status flags, readiness states, and related tournament settings.
-- Feedback and support: content of messages you send to support.
+Sensitive Information. We do not process sensitive information.
 
-B. Information Collected Automatically
-- Device and app info: device type, OS version, app version, language, time zone.
-- Diagnostic data: basic error and crash logs (if available) to improve stability and security.
-- Usage data: feature usage, screens viewed, time spent, generic interaction events.
+Payment Data. We may collect data necessary to process your payment if you choose to make purchases, such as your payment instrument number and the security code associated with your payment instrument. All payment data is handled and stored by our payment processors (for example, Apple Pay, Google Pay, or Stripe). You can review their privacy notices here: https://www.apple.com/legal/privacy/en-ww/, https://policies.google.com/privacy?hl=en-US, and https://stripe.com/privacy.
 
-C. Location and Sensors
-- Location (foreground/background, if permitted): to show nearby fields/events, help with community features, provide map experiences, and optional heatmap-style activity views.
-- Motion and heading: to power compass/map orientation features (if permitted).
-You can disable permissions at the system level. Some features may not work without them.
+Social Media Login Data. We may provide you with the option to register with us using your existing social media account details, like your Facebook, X, or other social media account. If you choose to register in this way, we will collect certain profile information about you from the social media provider, as described in the section called "HOW DO WE HANDLE YOUR SOCIAL LOGINS?" below.
 
-D. Notifications
-- Push token: we store your device token to send app notifications (e.g., messages, team updates, tournament reminders). You can disable notifications in system settings.
+Application Data. If you use our application(s), we may also collect the following information if you choose to provide us with access or permission:
 
-E. Payment Information
-- Payment processing: When enabled, payments are handled by Stripe and/or Apple Pay. We do not store full card numbers. We may receive limited payment metadata (e.g., payment status, amounts, last four digits within processor token response, and transaction identifiers) required to confirm payments.
+• Geolocation Information. We may request access or permission to track location-based information from your mobile device, either continuously or while you are using our mobile applications), to provide certain location-based services. If you wish to change our access or permissions, you may do so in your device's settings.
 
-3. How We Use Information
-We use information to:
-- Authenticate users and maintain accounts.
-- Provide core features: chat, groups, friend connections, events, tournaments, player ratings, matchmaking, notifications, and profile experiences.
-- Operate and improve the app (e.g., performance, reliability, usability, and safety).
-- Enforce our Terms, prevent fraud and abuse, and protect the community.
-- Communicate with you about updates, security alerts, and support.
-- Comply with legal obligations.
+• Mobile Device Data. We automatically collect device information (such as your mobile   device ID, model and manufacturer), operating system, version information and system  configuration information, device and application identification numbers, browser type and version, hardware model Internet service provider and/or mobile carrier, and Internet Protocol (IP) address (or proxy server). If you are using our application(s), we may also collect information about the phone network associated with your mobile device, your mobile device's operating system or platform, the type of mobile device you use, your mobile device's unique device ID, and information about the features of our application(s) you accessed.
 
-Legal bases (where applicable): performance of a contract, legitimate interests (e.g., platform operation and safety), consent (e.g., optional permissions), and compliance with legal obligations.
+• Push Notifications. We may request to send you push notifications regarding your account or certain features of the application(s). If you wish to opt out from receiving these types of communications, you may turn them off in your device's settings.
 
-4. How We Share Information
-A. With Other Users
-- Public profile: Your display name, username, and photo may be visible to others. Group members see messages and shared content within that group. Team participants may see team rosters and basic progress states.
-- Ratings and achievements: Certain community-facing stats (e.g., rating tiers or performance indicators) may be visible in the app where relevant.
+This information is primarily needed to maintain the security and operation of our application(s), for troubleshooting, and for our internal analytics and reporting purposes.
 
-B. Service Providers and Partners
-- Firebase (Auth, Firestore, Cloud Messaging), Google Sign-In, Apple Sign In, Google Maps/Places, Stripe, Apple Pay: to enable authentication, hosting, push notifications, maps, and payments.
-- These providers process data on our behalf and under their own terms.
+All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
 
-C. Legal, Safety, and Compliance
-- We may disclose information to comply with applicable laws, regulations, legal processes, or enforceable government requests, and to protect rights, property, safety, and the integrity of our services.
+Information automatically collected
 
-We do not sell your personal information.
+We automatically collect certain information when you visit, use, or navigate the Services. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Services, and other technical information. This information is primarily needed to maintain the security and operation of our Services, and for our internal analytics and reporting purposes
 
-5. Data Retention
-We retain information for as long as your account is active or as needed to provide services, comply with legal obligations, resolve disputes, and enforce agreements. We may retain certain logs and security records for a reasonable period.
+Like many businesses, we also collect information through cookies and similar technologies.
 
-6. Your Choices and Rights
-- Access, update, delete: You can request access, correction, or deletion of your data. Some data is required to maintain an account.
-- Permissions: You can adjust location and notifications in system settings.
-- Marketing: We currently do not use invasive advertising or cross-app tracking.
-- Region-specific rights: Depending on your jurisdiction (e.g., EEA/UK, California), you may have additional rights such as data portability and the right to object or limit certain processing. Contact us to exercise these rights.
+The information we collect includes:
 
-7. Children’s Privacy
-Gambeta is not intended for individuals under 13. If we learn we collected personal information from a child under 13, we will take steps to delete it.
+• Log and Usage Data. Log and usage data is service-related, diagnostic, usage, and performance information our servers automatically collect when you access or use our Services and which we record in log tiles. Depending on how you interact with us, this log data may include your IP address, device information, browser type, and settings and information about your activity in the Services (such as the date/time stamps associated with your usage, pages and files viewed, searches, and other actions you take such as which features you use), device event information (such as system activity, error reports (Sometimes called "crash dumps"), and hardware settings).
 
-8. Security
-We use reasonable administrative, technical, and organizational measures to protect your information (e.g., encryption in transit, role-based access). No method of transmission or storage is 100% secure.
+• Device Data. We collect device data such as information about your computer, phone, tablet, or other device you use to access the Services. Depending on the device used, this device data may include information such as your address (or proxy server), device and application identification numbers, location, browser type, hardware model, Internet service provider and/or mobile carrier, operating system, and system configuration information.
 
-9. International Transfers
-Your data may be processed in countries with different data protection laws than your own. We take steps to ensure appropriate safeguards when transferring data internationally.
+• Location Data. We collect location data such as information about your device's location, which can be either precise or imprecise. How much information we collect depends on the type and settings of the device you use to access the Services. For example, we may use GPS and other technologies to collect geolocation data that tells us your current location (based on your IP address). You can opt out of allowing us to collect this information either by refusing access to the information or by disabling your Location setting on your device. However, if you choose to opt out, you may not be able to use certain aspects of the Services.
 
-10. Changes to This Policy
-We may update this Privacy Policy. If we make material changes, we will provide notice in the app or by other reasonable means. Your continued use after the effective date constitutes acceptance.
+Google API
 
-11. Contact
-If you have questions or requests regarding privacy, contact: support@gambeta.app
-`;
+Our use of information received from Google APIs will adhere to Google API Services User Data Policy, including the Limited Use requirements.
 
-// Additional analytics & hosting details inserted for the public privacy page
-export const privacyPolicyAnalytics = `
-Analytics & Hosting (added)
+2. HOW DO WE PROCESS YOUR INFORMATION?
 
-1. Analytics and Tracking
-- We use analytics tools to understand how people use Gambeta so we can improve the product. These tools may collect anonymous usage data such as pages visited, clicks, time spent, device and browser information, and IP address (for coarse geolocation). We currently use or may use the following providers:
-  - Google Analytics (GA4): a free analytics service by Google that uses cookies and identifiers to measure website activity. If enabled, we load the gtag.js script and may send page_view events from our single-page app on route changes. GA4 stores limited pseudonymous identifiers and aggregates usage data in the Google Analytics property we control.
-  - Privacy-focused analytics (e.g., Umami or Plausible): these services collect simple pageview metrics and basic referrer data. Some are self-hosted and do not use cookies; others are hosted services with minimal data retention.
+We process your personal information for a variety of reasons, depending on how you interact with our Services, including:
 
-2. Why we use analytics
-- To measure site health and performance, fix bugs, learn which pages and features are most used, and improve the product experience.
+• To facilitate account creation and authentication and otherwise manage user accounts. We may process your information so you can create and log in to your account, as well as keep your account in working order.
 
-3. What we collect for analytics
-- Typical analytics data includes: page path, referrer, event names, timestamps, device/browser type, and coarse location derived from IP. We do not use analytics to build user profiles or to sell data.
+• To respond to user inquiries/offer support to users. We may process your information to respond to your inquiries and solve any potential issues you might have with the requested service.
 
-4. Cookies and client storage
-- Some analytics providers set cookies or use local storage to persist anonymous identifiers. If you block cookies at the browser level, some analytics may be limited or disabled.
+•To send administrative information to you. We may process your information to send you details about our products and services, changes to our terms and policies, and other similar information.
 
-5. Opt-out and controls
-- If you do not want to be tracked by Google Analytics, you can install the Google Analytics Opt-out Browser Add-on. For other analytics providers, consult their documentation for opt-out options.
-- You can also disable tracking by turning off cookies in your browser or by using privacy extensions that block analytics scripts.
+• To enable user-to-user communications. We may process your information if you choose to use any of our offerings that allow for communication with another user.
 
-6. Hosting and third-party services
-- Hosting: This website may be hosted on GitHub Pages or Firebase Hosting. Hosting providers store the site assets (HTML, CSS, JS, images) and serve them over HTTPS. Static hosting does not by itself collect form submissions or analytics; those are performed by separate services if enabled.
-- Third-party services: We use third-party services to provide functionality (e.g., Google Sign-In, Firebase Auth/Firestore, Stripe for payments, Google Maps). Each third-party has its own data practices; we recommend reviewing their privacy policies.
+• To request feedback. We may process your information when necessary to request feedback and to contact you about your use of our Services
 
-7. Google Forms and Google Sheets
-- If you use forms embedded from Google (Forms or Apps Script endpoints) those submissions go to Google. We do not control Google’s data handling for those services. If you submit data via an embedded form on our site, that data will be processed according to Google’s policies.
+• To send you marketing and promotional communications. We may process the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. You can opt out of our marketing emails at any time. For more information, see "WHAT ARE YOUR PRIVACY RIGHTS?” below.
 
-8. Data retention for analytics
-- Analytics data may be retained by the analytics provider according to their retention policies. We generally keep aggregated metrics for product analysis; raw logs or identifiers are retained only as needed and subject to provider retention settings.
+• To protect our Services. We may process your information as part of our efforts to keep our Services safe and secure, including fraud monitoring and prevention.
 
-9. Contact and changes
-- If you want analytics data deleted or have questions about analytics or hosting, contact support@gambeta.app. We will respond to reasonable requests to delete or restrict data where feasible and required by law.
-`;
+• To identify usage trends. We may process information about how you use our Services to better understand how they are being used so we can improve them.
 
-// To include these analytics/hosting details on the published privacy page,
-// the `Privacy` route renders the `privacyPolicy` string. We'll append the
-// analytics details at runtime so the page shows both sections.
+• To save or protect an individual's vital interest. We may process your information when necessary to save or protect an individual's vital interest, such as to prevent harm.
 
-export const termsOfService = `
-Gambeta Terms of Service
-${effectiveDate}
+3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
 
-1. Agreement to Terms
-These Terms of Service ("Terms") govern your use of Gambeta ("we", "our", "us") and our mobile applications, services, and features (collectively, the "Service"). By creating an account or using the Service, you agree to these Terms.
+We only process your personal information when we believe it is necessary and we have a valid legal reason (i.e., legal basis) to do so under applicable law, like with your consent, to comply with laws, to provide you with services to enter into or fulfill our contractual obligations, to protect your rights, or to fulfill our legitimate business interests.
 
-2. Eligibility
-You must be at least 13 years old to use the Service. If you are under the age of majority in your jurisdiction, you must have parental or guardian consent. You represent that you have the authority to accept these Terms.
+if you are located in the EU or UK. The mis section applies to you.
 
-3. Account and Security
-You are responsible for:
-- Providing accurate registration information and keeping it up to date.
-- Maintaining the confidentiality of your credentials.
-- All activities under your account.
-Notify us immediately of any unauthorized use of your account.
+The General Data Protection Regulation (GDPR) and UK GDPR require us to explain the valid legal bases we rely on in order to process your personal information. As such, we may rely on the following legal bases to process your personal information:
 
-You may sign in using email/password or supported social identity providers (e.g., Google, Apple). Use of social sign-in is subject to their terms.
-
-4. License and Use
-We grant you a limited, revocable, non-exclusive, non-transferable license to use the Service for personal, non-commercial purposes in accordance with these Terms. You agree not to:
-- Copy, modify, distribute, sell, or lease any part of the Service.
-- Reverse engineer or attempt to extract source code except where permitted by law.
-- Circumvent or interfere with security-related features.
+• Consent. We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Learn more about withdrawing your consent.
 
-5. User Content and Conduct
-A. Content
-"User Content" includes messages, media, usernames, team names, group names, ratings, and any other content you submit. You retain ownership of your User Content. You grant us a worldwide, non-exclusive, royalty-free license to host, store, reproduce, modify, display, perform, and distribute your User Content as necessary to operate and improve the Service.
+• Performance of a Contract. We may process your personal information when we believe it is necessary to fulfill our contractual obligations to you, including providing our Services or at your request prior to entering into a contract with you.
 
-B. Community Guidelines
-You agree not to post or share content that is illegal, harmful, threatening, abusive, harassing, defamatory, obscene, hateful, discriminatory, violent, or infringes intellectual property or privacy rights. No spam, scams, or attempts to impersonate others. We may remove content, restrict access, or suspend accounts for violations.
+• Legitimate Interests. We may process your information when we believe it is reasonably necessary to achieve our legitimate business interests and those interests do not outweigh your interests and fundamental rights and freedoms. For example, we may process your personal information for some of the purposes described in order to:
 
-C. Visibility
-Content shared in groups or teams may be visible to members of those spaces. Certain profile elements (e.g., display name, username, photo) may be visible to other users.
+• Send users information about special offers and discounts on our products and services
 
-6. Tournaments, Ratings, and Matchmaking
-- Tournament features may include team creation, membership, readiness states, and related data.
-- Ratings and matchmaking are informational only and provided "as is". They are based on user input and algorithms and may not reflect actual skill or performance.
-- We may change features, visibility, and algorithms at any time to improve fairness and integrity.
+• Analyze how our Services are used so we can improve them to engage and retain users
 
-7. Payments
-When enabled:
-- Payments may be processed by Stripe and/or Apple Pay. You agree to their terms and applicable fees.
-- Unless stated otherwise or required by law, payments are final and non-refundable.
-- You are responsible for taxes and charges imposed by your payment provider.
-- Payment disputes should first be directed to support@gambeta.app. We may provide transaction information that our processor shares with us.
+• Diagnose problems and/or prevent fraudulent activities
 
-8. Safety and Prohibited Activities
-You agree not to:
-- Use the Service for any unlawful purpose or in violation of any applicable law.
-- Upload malware, exploit vulnerabilities, or interfere with the Service’s operation.
-- Scrape, index, or harvest data outside the functionality we provide.
-- Engage in behavior that threatens others’ safety (online or offline).
-Report abuse to support@gambeta.app.
-
-9. Termination
-We may suspend or terminate access to the Service at any time for any reason, including violations of these Terms, suspected fraud or abuse, or harm to the community. You may stop using the Service at any time. Certain provisions will survive termination (e.g., ownership, disclaimers, limitations of liability).
+• Understand how our users use our products and services so we can improve user experience
 
-10. Intellectual Property
-The Service, including software, designs, trademarks, and content (excluding User Content), is owned by or licensed to us and is protected by intellectual property laws. You may not use our branding without prior written permission.
+• Legal Obligations. We may process your information where we believe it is necessary for compliance with our legal obligations, such as to cooperate with a law enforcement body or regulatory agency. exercise or defend our legal rights, or disclose your information as evidence in litigation in which we are involved.
 
-11. Third-Party Services
-The Service may rely on or link to third-party services (e.g., Firebase, Google Maps, Google Sign-In, Apple Sign In, Stripe, Apple Pay). Your use of those services may be subject to their terms and policies. We are not responsible for third-party services.
+• Vital Interests. We may process your information where we believe it is necessary to protect your vital interests or the vital interests of a third party, such as situations involving potential threats to the safety of any person.
 
-12. Disclaimers
-THE SERVICE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SERVICE WILL BE UNINTERRUPTED, SECURE, OR ERROR-FREE.
+If you are located in Canada, this section applies to you.
 
-13. Limitation of Liability
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, GAMBETA AND ITS AFFILIATES, OFFICERS, EMPLOYEES, AND AGENTS WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, DATA, USE, OR GOODWILL, ARISING OUT OF OR RELATED TO YOUR USE OF THE SERVICE. OUR AGGREGATE LIABILITY FOR ALL CLAIMS RELATING TO THE SERVICE SHALL NOT EXCEED THE GREATER OF (A) THE AMOUNT YOU PAID US, IF ANY, IN THE 12 MONTHS PRECEDING THE CLAIM; OR (B) USD $50.
+We may process your information if you have given us specific permission (ie., express consent) to use your personal information for a specific purpose, or in situations where your permission can be inferred (i.e., implied consent). You can withdraw your consent at any time.
 
-Some jurisdictions do not allow certain limitations; in those cases, some limitations may not apply to you.
+In some exceptional cases, we may be legally permitted under applicable law to process your information without your consent, including, for example:
 
-14. Indemnification
-You agree to defend, indemnify, and hold harmless Gambeta and its affiliates, officers, employees, and agents from any claims, liabilities, damages, losses, and expenses (including reasonable attorneys’ fees) arising out of or in any way connected with your use of the Service, your User Content, or your violation of these Terms.
+• If collection is clearly in the interests of an individual and consent cannot be obtained in a timely way
 
-15. Changes to the Service and Terms
-We may modify or discontinue the Service (in whole or in part) at any time. We may update these Terms, and if we make material changes, we will provide reasonable notice (e.g., in-app message). Your continued use after changes become effective constitutes acceptance.
+• For investigations and fraud detection and prevention
 
-16. Governing Law and Dispute Resolution
-These Terms apply to the extent permitted by applicable law. If any portion is held invalid or unenforceable, the remaining portions remain in full force and effect. Any disputes arising under these Terms will be resolved in a court of competent jurisdiction, unless local law provides otherwise.
+• For business transactions provided certain conditions are met
 
-17. Contact
-Questions about these Terms: support@gambeta.app
-`;
+• If it is contained in a witness statement and the collection is necessary to assess, process, or settle an insurance claim
 
-export const LegalTexts = {
-  effectiveDate,
-  privacyPolicy,
-  termsOfService,
-};
-
-export const tournamentParticipationAgreement = `
-GAMBETA TOURNAMENT PARTICIPATION AGREEMENT,
-ASSUMPTION OF RISK, WAIVER, AND RELEASE OF LIABILITY
-
-Effective Date: [EFFECTIVE_DATE]
-
-1. Parties
-This Agreement (“Agreement”) is entered into by and between:
-- Organizer: Gambeta (“Organizer”, “we”, “us”, “our”)
-- Participant: The undersigned player/parent or legal guardian (“Participant”, “you”, “your”)
-
-2. Event Details
-- Tournament Name: [TOURNAMENT_NAME]
-- Date(s): [EVENT_DATES]
-- Venue/Location: [VENUE_NAME_AND_ADDRESS]
-- Format: [FORMAT_E.G._5V5_7V7_11V11_GROUP_STAGE_ELIMINATION]
-- Playing Surface: [SURFACE_E.G._TURF_GRASS_INDOOR]
-- Match Rules Summary: [HALF_LENGTHS_OVERTIME_PENALTIES_SLIDE_TACKLE_RULE_ETC.]
-- Organizer Contact: support@gambeta.app
-
-3. Eligibility and Conduct
-3.1 Eligibility. You represent you are at least 18 years old, or a parent/legal guardian is signing for a minor Participant. You are physically fit and able to participate.
-3.2 Code of Conduct. You agree to follow tournament rules, referee instructions, venue policies, and applicable laws. Unsportsmanlike conduct, harassment, abuse, violence, use of banned substances, or alcohol/drug impairment is prohibited and may result in removal without refund.
-3.3 Equipment and Safety. You are responsible for wearing appropriate gear (e.g., shin guards, proper footwear) and ensuring equipment is safe and compliant with rules.
-
-4. Assumption of Risk
-Soccer and related athletic activities involve inherent risks, including but not limited to slips, falls, collisions, sprains, strains, fractures, concussions, heat/cold exposure, and, in rare cases, serious injury or death. Risks may arise from your own actions, the actions/omissions of others, field conditions, weather, equipment, and facility conditions. You understand and voluntarily accept all risks, known and unknown, associated with participation, warmups, spectating, and related activities.
-
-5. Waiver and Release of Liability
-To the fullest extent permitted by law, you release and discharge the Organizer, its affiliates, owners, officers, directors, employees, volunteers, agents, sponsors, venue owners/managers, and vendors (“Released Parties”) from any and all claims, demands, causes of action, damages, losses, costs, or liabilities of any kind (including attorneys’ fees) arising out of or related to injury, illness, property damage, or death connected to your participation, except to the extent caused by the Released Parties’ willful misconduct or gross negligence where such exclusion is not permitted by law.
-
-6. Indemnification
-You agree to defend, indemnify, and hold harmless the Released Parties from any third-party claims, damages, losses, and expenses (including reasonable attorneys’ fees) arising from your (or the minor Participant’s) acts, omissions, or violation of this Agreement or tournament rules.
-
-7. Medical Authorization and Emergency Care
-You authorize the Organizer and medical personnel to secure and/or provide first aid and emergency medical treatment deemed necessary for you (or the minor Participant). You are responsible for all related costs. You certify you have no medical condition that would make participation unsafe and acknowledge it is your responsibility to consult a physician before participating.
-
-8. Insurance
-Organizer does not provide personal health or accident insurance for Participants. You are encouraged to maintain adequate medical and personal liability insurance.
-
-9. Weather, Facility, and Force Majeure
-Events may be delayed, modified, or canceled due to weather, facility issues, safety concerns, or circumstances beyond the Organizer’s reasonable control (including acts of God, public health directives, strikes, or governmental actions). Reasonable efforts will be made to communicate changes and, where possible, provide rescheduling options as set out in Section 12.
-
-10. Photo, Audio, and Video Consent
-You grant Organizer a worldwide, royalty-free license to capture, use, reproduce, and display photographs, video, and audio of the event that may include your likeness for legitimate promotional and operational purposes in any media, without additional compensation. If you object, notify support@gambeta.app prior to the event; Organizer will use reasonable efforts to accommodate, subject to operational feasibility.
-
-11. Data and Communications
-Organizer may process personal data (e.g., name, email, team info, participation status, and payment metadata) to operate the tournament, communicate updates, and ensure safety and compliance. See our Privacy Policy at https://gambetaapp.com/privacy.
-
-12. Payments, Fees, Refunds, and Cancellations
-12.1 Entry Fees. Entry fees and any applicable taxes or processing charges will be displayed at checkout. You are responsible for ensuring accurate payment details.
-12.2 Confirmation Window. A team is “Confirmed” when minimum roster and any tournament compliance requirements are met and validated by Organizer. Unless otherwise stated, the team registration confirmation window is five (5) days from initial registration (“Confirmation Window”).
-12.3 Refunds and Cancellations.
-  a) If a team is not Confirmed within the Confirmation Window, the pending payment authorization will be released/canceled (see Section 13 for Stripe timing details).
-  b) If Organizer cancels the tournament in full prior to commencement, entry fees for impacted teams will be refunded or the authorization will be released.
-  c) If an event is postponed, Organizer may offer rescheduling or refund/authorization release; details will be communicated at the time of the change.
-  d) Once a team is Confirmed and the authorization is captured, fees are generally non-refundable except where required by law or if Organizer cancels the event without reschedule.
-  e) Individual withdrawals after team Confirmation are handled by the team representative; Organizer does not split or prorate team fees unless explicitly stated.
-
-13. Stripe Payment Authorization and Holds
-13.1 Processor. Payments are processed by Stripe, Inc. (“Stripe”). Organizer does not store full card numbers. Stripe may retain tokens and limited metadata necessary to process transactions.
-13.2 Authorization. At registration, your payment method may be authorized for the entry fee amount (and applicable taxes/fees). This is a pending charge/hold, not a final capture.
-13.3 Capture on Confirmation. Upon team Confirmation, Organizer may capture the authorized amount. If the team is not Confirmed by the end of the Confirmation Window, Organizer will instruct Stripe to cancel/release the authorization.
-13.4 Release Timing. Bank release times vary. Your bank may take several business days to reflect the release. Organizer is not responsible for banking delays.
-13.5 Declines and Chargebacks. If a payment is declined or later disputed/charged back, Organizer may remove the team/Participant and pursue remedies consistent with tournament rules and applicable law.
-
-14. Rules of Play and Discipline
-You acknowledge receipt of and agree to follow the official tournament rules, including but not limited to: match duration, tiebreakers, roster limits, identification checks, substitution rules, equipment requirements, and discipline protocols (yellow/red cards, suspensions). Referee and Organizer decisions are final.
-
-15. No Warranties; Limitation of Liability
-The event and facilities are provided “AS IS” and “AS AVAILABLE.” To the maximum extent permitted by law, Released Parties disclaim all warranties (express or implied) and limit total liability for any claims to the amount actually paid for your entry fee or USD $50, whichever is greater. Some jurisdictions do not allow certain limitations; such limitations shall apply to the fullest extent permitted.
-
-16. Governing Law and Dispute Resolution
-This Agreement is governed by the laws of [GOVERNING_JURISDICTION]. Any disputes shall be brought in the courts located in [VENUE_FOR_DISPUTES], unless local law provides otherwise. If any provision is held invalid, the remaining provisions remain in full force and effect.
-
-17. Minors
-If the Participant is under 18, a parent or legal guardian must sign. The parent/guardian accepts and agrees to this Agreement on behalf of the minor, including the assumption of risk, waiver, release, and indemnification provisions.
-
-18. Electronic Signatures and Consent
-You consent to transact electronically and to use electronic signatures. By checking the acknowledgment boxes and signing below within the Gambeta app, you agree your electronic signature has the same force and effect as a handwritten signature.
-
-19. Entire Agreement
-This Agreement, together with tournament rules and posted policies, constitutes the entire understanding regarding participation and supersedes prior oral or written statements on the subject.
-
-ACKNOWLEDGMENTS (REQUIRED)
-[ ] I have read and agree to the Assumption of Risk, Waiver, and Release of Liability.
-[ ] I have read and agree to the Code of Conduct and Rules of Play.
-[ ] I consent to emergency medical treatment if needed.
-[ ] I understand the Payments, Refunds, and Stripe Authorization terms, including the five-day Confirmation Window.
-[ ] (Optional) I consent to Photo/Media use as described.
-
-Participant Name: __________________________   Team Name: __________________________
-Email: ____________________________________   Phone: _____________________________
-Signature: _________________________________   Date: ______________________________
-
-If Participant is a Minor:
-Parent/Guardian Name: _______________________  Relationship: ________________________
-Parent/Guardian Signature: ___________________  Date: ______________________________
-Emergency Contact Name: _____________________  Phone:
-`;
+• For identifying injured, ill, or deceased persons and communicating with next of kin
+
+• If we have reasonable grounds to believe an individual has been, is, or may be victim of financial abuse
+
+• If it is reasonable to expect collection and use with consent would compromise the availability or the accuracy of the information and the collection is reasonable for purposes related to investigating a breach of an agreement or a contravention of the laws of Canada or a province
+
+•If disclosure is required to comply with a subpoena, warrant, court order, or rules of the court relating to the production of records
+
+• If it was produced by an individual in the course of their employment, business, or profession and the collection is consistent with the purposes for which the information was produced
+
+• If the collection is solely for journalistic, artistic, or literary purposes
+
+• If the information is publicly available and is specified by the regulations
+
+• We may disclose de-identified information for approved research or statistics projects, subject to ethics oversight and confidentiality commitments
+
+
+4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
+
+We may share information in specific situations described in this section and/or with the following third parties.
+
+Vendors, Consultants, and Other Third-Party Service Providers. We may share your data with third-party vendors, service providers, contractors, or agents ("third parties") who perform services for us or on our behalf and require access to such information to do that work. We have contracts in place with our third parties, which are designed to help safeguard your personal information. This means that they cannot do anything with your personal information unless we have instructed them to do it. They will also not share your personal information with any organization apart from us. They also commit to protect the data they hold on our behalf and to retain it for the period we instruct.
+
+The third parties we may share personal information with are as follows:
+
+• Advertising. Direct Marketing, and Lead Generation 
+
+AdMob
+
+• Allow Users to Connect to Their Third-Party Accounts 
+
+Google account and Apple account
+
+• Cloud Computing Services
+
+Google Cloud Platform
+
+• Communicate and Chat with Users
+
+Firebase Cloud Messaging
+
+• Functionality and infrastructure Optimization
+
+Google Cloud Storage, Firebase Realtime Database and GitHub Pages
+
+• Invoice and Billing
+
+Apple Pay, Google Wallet and Android Pay
+
+• Social Media Sharing and Advertising
+
+Instagram advertising
+
+• User Account Registration and Authentication
+
+Google Sign-In, Firebase Authentication and Apple Sign-in
+
+• Web and Mobile Analytics
+
+Google Analytics
+
+• Website Hosting
+
+Github Pages
+
+• Website Performance Monitoring
+
+Firebase Crash Reporting, Firebase Performance Monitoring and Crashlytics
+
+• Website Testing
+
+TestFlight and Google Play Console
+
+We also may need to share your personal information in the following situations:
+
+• Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
+
+• When we use Google Maps Platform APIs. We may share your information with certain Google Maps Platform APIs (e.g., Maps API, Places API). Google Maps uses GPS, Wi‑Fi, and cell towers to estimate your location. GPS is accurate to about 20 meters, while Wi‑Fi and cell towers help improve accuracy when GPS signals are weak (for example, indoors). This data helps Google Maps provide directions, but it is not always perfectly precise. We may cache your location on your device. You may revoke your consent anytime by contacting us at the contact details provided at the end of this document.
+
+• Offer Wall. Our application(s) may display a third-party hosted "offer wall." Such an offer wall allows third-party advertisers to offer virtual currency, gifts, or other items to users in return for the acceptance and completion of an advertisement offer. Such an offer wall may appear in our application(s) and be displayed to you based on certain data, such as your geographic area or demographic information. When you click on an offer wall, you will be brought to an external website belonging to other persons and will leave our application(s). A unique identifier, such as your user ID, will be shared with the offer wall provider in order to prevent fraud and property credit your account with the relevant reward.
+
+
+5. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?
+
+We are not responsible for the safety of any information that you share with third parties that we may link to or who advertise on our Services, but are not affiliated with, our Services.
+
+The Services, including our offer wall, may link to third-party websites, online services, or mobile applications and/or contain advertisements from third parties that are not affiliated with us and which may link to other websites, services, or applications. Accordingly, we do not make any guarantee regarding any such third parties, and we will not be liable for any loss or damage caused by the use of such third-party websites. services, or applications. The inclusion of a link towards a third-party website, service, or application does not imply an endorsement by us. We cannot guarantee the safety and privacy of data you provide to any third-party websites. Any data collected by third parties is not covered by this Privacy Notice. We are not responsible for the content or privacy and security practices and policies of any third parties, including other websites, services, or applications that may be linked to or from the Services. You should review the policies of such third parties and contact them directly to respond to your questions.
+
+6. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
+
+We may use cookies and other tracking technologies to collect and store your information.
+
+We may use cookies and similar tracking technologies (like web beacons and pixels) to gather information when you interact with our Services. Some online tracking technologies help us maintain the security of our Services and your account, prevent crashes, fix bugs, save your preferences, and assist with basic site functions.
+
+We also permit third parties and service providers to use online tracking technologies on our Services for analytics and advertising, including to help manage and display advertisements, to tailor advertisements to your interests, or to send abandoned shopping cart reminders (depending on your communication preferences). The third parties and service providers use their technology to provide advertising about products and services tailored to your interests which may appear either on our Services or on other websites
+
+To the extent these online tracking technologies are deemed to be a "sale"'sharing" (which includes targeted advertising, as defined under the applicable laws) under applicable US state laws, you can opt out of these online tracking technologies by submitting a request as described below under section “DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?”
+
+Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Notice.
+
+Google Analytics
+
+We may share your information with Google Analytics to track and analyze the use of the Services. The Google Analytics Advertising Features that we may use include: Remarketing with Google Analytics, Google Display Network Impressions Reporting and Google Analytics Demographics and Interests Reporting. To opt out of being tracked by Google Analytics across the Services, visit https://tools.google.com/dlpage/gaoptout. You can opt out of Google Analytics Advertising Features through Ads Settings and Ad Settings for mobile apps. Other opt out means include http://optout.networkadvertising.org/ and http://www.networkadvertising.org/mobile-choice For more information on the privacy practices of Google, please visit the Google Privacy & Terms page.
+
+
+7. HOW DO WE HANDLE YOUR SOCIAL LOGINS?
+
+If you choose to register or log in to our Services using a social media account, we may have access to certain information about you.
+
+Our Services offer you the ability to register and log in using your third-party social media account details (like your Facebook or X logins). Where you choose to do this, we will receive certain profile information about you from your social media provider. The profile information we receive may vary depending on the social media provider concerned, but will often include your name, email address, friends list, and profile picture, as well as other information you choose to make public on such a social media platform.
+
+We will use the information we receive only for the purposes that are described in this Privacy Notice or that are otherwise made clear to you on the relevant Services. Please note that we do not control, and are not responsible for, other uses of your personal information by your third-party social media provider. We recommend that you review their privacy notice to understand how they collect, use, and share your personal information, and how you can set your privacy preferences on their sites and apps.
+
+8. HOW LONG DO WE KEEP YOUR INFORMATION?
+
+We keep your information for as long as necessary to fulfill the purposes outlined in this Privacy Notice unless otherwise required by law.
+
+We will only keep your personal information for as long as it is necessary for the purposes set out in this Privacy Notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements). No purpose in this notice will require us to keep your personal information for longer than the period of time in which users have an account with us.
+
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+
+
+9. HOW DO WE KEEP YOUR INFORMATION SAFE?
+
+We aim to protect your personal information through a system of organizational and technical security measures.
+
+We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. However, despite our strong safeguards efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be secure, so we aren’t responsible in the event of hacks, cybercriminals, improperly collecting, accessing, stealing, or modifying your information. Transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
+
+
+10. WHAT ARE YOUR PRIVACY RIGHTS?
+
+Depending on your state of residence in the US or in some regions, such as the European Economic Area (EEA), United Kingdom (UK), Switzerland, and Canada, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time, depending on your country, province, or state of residence.
+
+In some regions (like the EEA, UK, Switzerland, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (i) to request rectification or erasure; (il) to restrict the processing of your personal information; (iv) if applicable, to data portability: and (v) not to be subject to automated decision-making. If a decision that produces legal or similarly significant effects is made solely by automated means, we will inform you, explain the main factors, and offer a simple way to request human review. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?" below.
+
+We will consider and act upon any request in accordance with applicable data protection laws.
+
+If you are located in the EEA or UK and you believe we are unlawfully processing your personal information, you also have the right to complain to your Member State data protection authority or UK data protection authority.
+
+If you are located in Switzerland, you may contact the Federal Data Protection and Information Commissioner
+
+Withdrawing your consent: If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?" below.
+
+However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+
+Opting out of marketing and promotional communications: You can unsubscribe from our marketing and promotional communications at any time by replying STOP or UNSUBSCRIBE to the SMS messages that we send, or by contacting us using the details provided in the section "HOW CAN YOU CONTACT US ABOUT THIS NOTICE? below. You will then be removed from the marketing lists. However, we may still communicate with you - for example, to send you service-related messages that are necessary for the administration and use of your account, to respond to service requests, or for other non-marketing purposes.
+
+Account Information
+
+If you would at any time like to review or change the information in your account or terminate your account, you can:
+
+• Log in to your account settings and update your user account.
+
+Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, we may retain some information in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our legal terms and/or comply with applicable legal requirements.
+
+Cookies and similar technologies: Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Services. You may also opt out of interest-based advertising by advertisers on our Services.
+
+If you have questions or comments about your privacy rights, you may email us at support@gambetaapp.com.
+
+
+11. CONTROLS FOR DO-NOT-TRACK FEATURES
+
+Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (DNT) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage, no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this Privacy Notice.
+
+California law requires us to let you know how we respond to web browser DNT signals. Because there currently is not an industry or legal standard for recognizing or honoring DNT signals, we do not respond to them at this time.
+
+12. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+If you are a resident of California, Colorado, Connecticut, Delaware, Florida, Indiana, lowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah, or Virginia, you may have the right to request access to and receive details about the personal information we maintain about you and how we have processed it, correct inaccuracies, get a copy of, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. More information is provided below.
+Categories of Personal Information We Collect
+The table below shows the categories of personal information we have collected in the past twelve (12) months. The table includes illustrative examples of each category and does not reflect the personal information we collect from you. For a comprehensive inventory of all personal information we process, please refer to the section "WHAT INFORMATION DO WE COLLECT?"
+
+Category
+Examples
+Collected
+A. Identifiers
+Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name
+YES
+B. Personal information as defined in the California Customer Records statute
+Name, contact information, education, employment, employment history, and financial information
+YES
+C. Protected classification characteristics under state or federal law
+Gender, age, date of birth, race and ethnicity, national origin, marital status, and other demographic data
+NO
+D. Commercial information
+Transaction information, purchase history, financial details, and payment information
+NO
+E. Biometric information
+Fingerprints and voiceprints
+NO
+F. Internet or other similar network activity
+Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems, and advertisements
+NO
+G. Geolocation data
+Device location
+YES
+H. Audio, electronic, sensory, or similar information
+Images and audio, video, or call recordings created in connection with our business activities
+NO
+I. Professional or employment-related information
+Business contact details to provide Services at a business level, or job title, work history, and professional qualifications if you apply for a job with us
+NO
+J. Education Information
+Student records and directory information
+NO
+K. Inferences drawn from collected personal information
+Inferences drawn from collected personal information to create a profile or summary, such as an individual’s preferences and characteristics
+NO
+L. Sensitive personal information
+Account login information
+YES
+
+
+
+
+
+
+
+We only collect sensitive personal information, as defined by applicable privacy laws or the purposes allowed by law or with your consent. Sensitive personal information may be used or disclosed to a service provider or contractor for additional, specified purposes. You may have the right to limit the use or disclosure of your sensitive personal information. We do not collect or process sensitive personal information to infer characteristics about you.
+We may also collect other personal information outside of these categories through instances where you interact with us in person, online, by phone, or by mail in the context of:
+• Receiving help through our customer support channels;
+• Participation in customer surveys or contests; and
+• Facilitation in the delivery of our Services and to respond to your inquiries.
+We will use and retain the collected personal information as needed to provide the Services or for:
+• Category L - As long as the user has an account with us
+Will your information be shared with anyone else?
+We may disclose your personal information to our service providers pursuant to a written contract between each service provider. Learn more about how we disclose personal information in the section, "WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?"
+We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration.
+This is not considered to be "selling" your personal information.
+We have not sold or shared any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. We have disclosed the following categories of personal information to third parties for a business or commercial purpose in the preceding twelve (12) months:
+• Category A. Identitiers
+• Category B. Personal information as defined in the California Customer Records law
+• Category F. Internet or other electronic network activity information
+• Category G. Geolocation data
+
+The categories of third parties to whom we disclosed personal information for a business or commercial purpose can be found under WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?"
+Your Rights
+You have rights under certain US state data protection laws. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law. These rights include:
+• Right to know whether or not we are processing your personal data
+• Right to access your personal data
+• Right to correct inaccuracies in your personal data
+• Right to request the deletion of your personal data
+• Right to obtain a copy of the personal data you previously shared with us
+• Right to non-discrimination for exercising your rights
+• Right to opt out of the processing of your personal data if it is used for targeted advertising (or sharing as defined under California's privacy law), the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects (profiling)
+Depending upon the state where you live, you may also have the following rights:
+• Right to access the categories of personal data being processed (as permitted by applicable law, including the privacy law in Minnesota)
+• Right to obtain a list of the categories of third parties to which we have disclosed personal data (as permitted by applicable law, including the privacy law in California, Delaware, and Maryland)
+• Right to obtain a list of specific third parties to which we have disclosed personal data (as permitted by applicable law, including the privacy law in Minnesota and Oregon)
+• Right to obtain a list of third parties to which we have sold personal data (as permitted by applicable law, including the privacy law in Connecticut)
+• Right to review, understand, question, and, depending on where you live, correct how personal data has been profiled (as permitted by applicable law, including the privacy law in Connecticut and Minnesota)
+• Right to limit use and disclosure of sensitive personal data (as permitted by applicable law, including the privacy law in California)
+• Right to opt out of the collection of sensitive data and personal data collected through the operation of a voice or facial recognition feature (as permitted by applicable law, including the privacy law in Florida)
+How to Exercise Your Rights
+To exercise these rights, you can contact us by submitting a data subject access request, by emailing us at support@gambetaapp.com, or by referring to the contact details at the bottom of this document.
+Under certain US state data protection laws, you can designate an authorized agent to make a request on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with applicable laws.
+Request Verification
+Upon receiving your request, we will need to verify your identity to determine that you are the same person about whom we have the information in our system. We will only use personal information provided in your request to verify your identity or authority to make the request. However, if we cannot verify your identity from the information already maintained by us, we may request that you provide additional information for the purposes of verifying your identity and for security or fraud-prevention purposes.
+If you submit the request through an authorized agent, we may need to collect additional information to verify your identity before processing your request, and the agent will need to provide a written and signed permission from you to submit such a request on your behalf.
+Appeals
+Under certain US state data protection laws, if we decline to take action regarding your request, you may appeal our decision by emailing us at support@gambetaapp.com. We will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may submit a complaint to your state attorney general.
+13. DO OTHER REGIONS HAVE SPECIFIC PRIVACY RIGHTS?
+
+Australia and New Zealand
+
+We collect and process your personal information under the obligations and conditions set by Australia's Privacy Act 1988 and New Zealand's Privacy Act 2020 (Privacy Act).
+
+This Privacy Notice satisfies the notice requirements defined in both Privacy Acts, in particular: what personal information we collect from you, from which sources, for which purposes, and other recipients of your personal information.
+
+If you do not wish to provide the personal information necessary to fulfill their applicable purpose, it may affect our ability to provide our services, in particular:
+
+• offer you the products or services that you want
+• respond to or help with your requests
+• manage your account with us
+• confirm your identity and protect your account
+
+At any time, you have the right to request access to or correction of your personal information. You can make such a request by contacting us by using the contact details provided in the section "HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?"
+
+If you believe we are unlawfully processing your personal information, you have the right to submit a complaint. about a breach of the Australian Privacy Principles to the Office of the Commissioner and a breach of New Zealand's Privacy Principles to the Office of New Zealand Privacy Commissioner.
+
+Republic of South Africa
+
+At any time, you have the right to request access to or correction of your personal information. You can make such a request by contacting us by using the contact details provided in the section "HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+If you are unsatisfied with the manner in which we address any complaint with regard to our processing of personal information, you can contact the office of the regulator, the details of which are:
+
+The information Regulator (South Africa)
+General enquires: enquines@inforegulator.org.za 
+Complaints (complete POPIA/PAIA form
+5): PAIAComplaints@inforegulator.org.za & POPIAComplaints@inforegulator.org.za
+
+14. DO WE MAKE UPDATES TO THIS NOTICE?
+Yes, we will update this notice as necessary to stay compliant with relevant laws.
+We may update this Privacy Notice from time to time. The updated version will be indicated by an updated "Revised" date at the top of this Privacy Notice. If we make material changes to this Privacy Notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this Privacy Notice frequently to be informed of how we are protecting your information.
+15. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+If you have questions or comments about this notice, you may email us at support@gambetaapp.com or contact us by post at:
+GAMBETA LLC
+5000 Thayer Center STE C,
+Oakland, MD 21550
+United States
+16. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+Based on the applicable laws of your country or state of residence in the US, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request a review, update, or deletion of your personal information, please fill out and submit a data subject access request.
+
+
+this is the updated privacy policy
