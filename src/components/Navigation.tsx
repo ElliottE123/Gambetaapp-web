@@ -123,19 +123,19 @@ const Navigation: React.FC<NavigationProps> = ({ currentPage, onPageChange }) =>
                 ))}
               </div>
 
-              {/* Coming Soon Button */}
-              <button
-                onClick={() => {
-                  console.log('Coming Soon clicked');
-                }}
+              {/* App Store Button */}
+              <a
+                href="https://apps.apple.com/us/app/gambeta/id6753347201"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-flex items-center space-x-2 px-4 py-2 rounded-full font-semibold text-sm transition-all duration-300 focus:outline-none focus:ring-2 focus:ring-emerald-400 transform hover:scale-105 bg-gradient-to-r from-emerald-500 to-teal-600 text-white hover:from-emerald-600 hover:to-teal-700 shadow-lg hover:shadow-xl"
-                aria-label="Coming soon - Gambeta mobile app"
+                aria-label="Download Gambeta on the App Store"
               >
-                <span>Coming Soon</span>
+                <span>Download App</span>
                 <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z" />
                 </svg>
-              </button>
+              </a>
             </div>
 
             {/* Mobile Menu Button */}
@@ -189,20 +189,20 @@ const Navigation: React.FC<NavigationProps> = ({ currentPage, onPageChange }) =>
                       Terms
                     </a>
                 
-                {/* Mobile Coming Soon Button */}
-                <button
-                  onClick={() => {
-                    console.log('Coming Soon clicked');
-                    setIsMenuOpen(false);
-                  }}
+                {/* Mobile App Store Button */}
+                <a
+                  href="https://apps.apple.com/us/app/gambeta/id6753347201"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onClick={() => setIsMenuOpen(false)}
                   className="w-full mt-4 inline-flex items-center justify-center space-x-2 px-4 py-3 bg-gradient-to-r from-emerald-500 to-teal-600 text-white rounded-xl font-semibold transition-all duration-300 hover:from-emerald-600 hover:to-teal-700 focus:outline-none focus:ring-2 focus:ring-emerald-400 transform hover:scale-105 shadow-lg"
-                  aria-label="Coming soon - Gambeta mobile app"
+                  aria-label="Download Gambeta on the App Store"
                 >
-                  <span>Coming Soon</span>
+                  <span>Download App</span>
                   <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z" />
                   </svg>
-                </button>
+                </a>
               </div>
             </div>
           </div>

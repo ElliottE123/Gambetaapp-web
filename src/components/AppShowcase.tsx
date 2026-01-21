@@ -297,10 +297,15 @@ const AppShowcase = () => {
 
           {/* CTA - Mobile Optimized */}
           <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center items-center px-4 mb-12 sm:mb-0">
-            <button className="group px-6 sm:px-8 py-3 sm:py-4 bg-gradient-to-r from-emerald-500 to-teal-600 text-white rounded-lg sm:rounded-xl hover:from-emerald-600 hover:to-teal-700 transition-all duration-300 transform hover:scale-105 font-semibold shadow-lg flex items-center gap-2 sm:gap-3 w-full sm:w-auto">
+            <a 
+              href="https://apps.apple.com/us/app/gambeta/id6753347201"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="group px-6 sm:px-8 py-3 sm:py-4 bg-gradient-to-r from-emerald-500 to-teal-600 text-white rounded-lg sm:rounded-xl hover:from-emerald-600 hover:to-teal-700 transition-all duration-300 transform hover:scale-105 font-semibold shadow-lg flex items-center gap-2 sm:gap-3 w-full sm:w-auto"
+            >
               <Apple className="w-4 sm:w-5 h-4 sm:h-5" />
-              <span className="text-sm sm:text-base">Coming Soon to iOS</span>
-            </button>
+              <span className="text-sm sm:text-base">Download on App Store</span>
+            </a>
             
             <button
               onClick={() => {
@@ -685,13 +690,18 @@ const AppShowcase = () => {
                   
                   {/* Download Buttons - Mobile Optimized */}
                   <div className="flex flex-col gap-3 max-w-xs sm:max-w-sm mx-auto px-4">
-                    <button className="group flex items-center gap-3 px-4 sm:px-5 py-3 bg-gradient-to-r from-slate-800 to-slate-900 text-white rounded-lg sm:rounded-xl border-2 border-slate-600 hover:border-emerald-500 transition-all duration-300 transform active:scale-95">
+                    <a 
+                      href="https://apps.apple.com/us/app/gambeta/id6753347201"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="group flex items-center gap-3 px-4 sm:px-5 py-3 bg-gradient-to-r from-slate-800 to-slate-900 text-white rounded-lg sm:rounded-xl border-2 border-slate-600 hover:border-emerald-500 transition-all duration-300 transform active:scale-95"
+                    >
                       <Apple className="w-5 sm:w-6 h-5 sm:h-6 transition-transform duration-300 flex-shrink-0" />
                       <div className="text-left">
-                        <div className="text-xs text-slate-400">Coming Soon to</div>
+                        <div className="text-xs text-slate-400">Available Now on</div>
                         <div className="text-sm font-semibold">App Store</div>
                       </div>
-                    </button>
+                    </a>
                     
                     <button className="group flex items-center gap-3 px-4 sm:px-5 py-3 bg-gradient-to-r from-emerald-500 to-teal-600 text-white rounded-lg sm:rounded-xl hover:from-emerald-600 hover:to-teal-700 transition-all duration-300 transform active:scale-95">
                       <Smartphone className="w-5 sm:w-6 h-5 sm:h-6 transition-transform duration-300 flex-shrink-0" />
@@ -743,13 +753,18 @@ const AppShowcase = () => {
             
             {/* Download Buttons */}
             <div className="flex flex-col sm:flex-row gap-4 md:gap-6 lg:gap-8 justify-center items-center max-w-2xl mx-auto">
-              <button className="group flex items-center gap-4 lg:gap-6 px-6 md:px-8 lg:px-10 py-4 md:py-5 lg:py-6 bg-gradient-to-r from-slate-800 to-slate-900 text-white rounded-xl lg:rounded-2xl border-2 border-slate-600 hover:border-emerald-500 transition-all duration-300 transform hover:scale-105 hover:shadow-xl hover:shadow-emerald-500/20 w-full sm:w-auto">
+              <a 
+                href="https://apps.apple.com/us/app/gambeta/id6753347201"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="group flex items-center gap-4 lg:gap-6 px-6 md:px-8 lg:px-10 py-4 md:py-5 lg:py-6 bg-gradient-to-r from-slate-800 to-slate-900 text-white rounded-xl lg:rounded-2xl border-2 border-slate-600 hover:border-emerald-500 transition-all duration-300 transform hover:scale-105 hover:shadow-xl hover:shadow-emerald-500/20 w-full sm:w-auto"
+              >
                 <Apple className="w-8 md:w-10 lg:w-12 h-8 md:h-10 lg:h-12 group-hover:scale-110 transition-transform duration-300 flex-shrink-0" />
                 <div className="text-left">
-                  <div className="text-sm md:text-base text-slate-400">Coming Soon to</div>
+                  <div className="text-sm md:text-base text-slate-400">Available Now on</div>
                   <div className="text-lg md:text-xl lg:text-2xl font-semibold">App Store</div>
                 </div>
-              </button>
+              </a>
               
               <button className="group flex items-center gap-4 lg:gap-6 px-6 md:px-8 lg:px-10 py-4 md:py-5 lg:py-6 bg-gradient-to-r from-emerald-500 to-teal-600 text-white rounded-xl lg:rounded-2xl hover:from-emerald-600 hover:to-teal-700 transition-all duration-300 transform hover:scale-105 hover:shadow-xl hover:shadow-emerald-500/25 w-full sm:w-auto">
                 <Smartphone className="w-8 md:w-10 lg:w-12 h-8 md:h-10 lg:h-12 group-hover:scale-110 transition-transform duration-300 flex-shrink-0" />

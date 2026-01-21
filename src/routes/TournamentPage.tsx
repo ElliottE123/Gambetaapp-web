@@ -2,6 +2,7 @@ import React, { useEffect } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
 import Navigation from '../components/Navigation';
 import Tournament from '../components/Tournament';
+import Footer from '../components/Footer';
 
 const TournamentPage: React.FC = () => {
   const navigate = useNavigate();
@@ -31,6 +32,7 @@ const TournamentPage: React.FC = () => {
     <div className="min-h-screen">
       <Navigation currentPage="tournament" onPageChange={handlePageChange} />
       <Tournament />
+      <Footer />
     </div>
   );
 };

@@ -65,17 +65,19 @@ const Hero: React.FC<HeroProps> = ({ onNavigateToTournament }) => {
           
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-6 justify-center items-center mb-16 animate-fade-in-up animation-delay-600">
-            {/* Coming Soon Button */}
-            <button 
-              onClick={() => setIsSignupModalOpen(true)}
+            {/* App Store Button */}
+            <a 
+              href="https://apps.apple.com/us/app/gambeta/id6753347201"
+              target="_blank"
+              rel="noopener noreferrer"
               className="group bg-black hover:bg-gray-900 text-white px-8 py-4 rounded-2xl flex items-center gap-3 text-lg font-semibold transition-all duration-300 transform hover:scale-105 hover:shadow-2xl border border-gray-700"
             >
               <Bell className="w-6 h-6" />
               <div className="text-left">
-                <div className="text-xs text-gray-300">App Coming Soon to the DMV</div>
-                <div className="text-base font-bold">Sign up for notifications</div>
+                <div className="text-xs text-gray-300">Available Now on</div>
+                <div className="text-base font-bold">App Store</div>
               </div>
-            </button>
+            </a>
             
             {/* Instagram Button */}
             <button 

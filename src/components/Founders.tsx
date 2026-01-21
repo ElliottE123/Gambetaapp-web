@@ -12,7 +12,6 @@ const Founders = ({ onNavigateToContact }: FoundersProps = {}) => {
   // Create individual hooks for each founder to enable incremental loading
   const [founder1Ref, founder1InView] = useInView({ threshold: 0.1 });
   const [founder2Ref, founder2InView] = useInView({ threshold: 0.1 });
-  const [founder3Ref, founder3InView] = useInView({ threshold: 0.1 });
   const [ctaRef, ctaInView] = useInView({ threshold: 0.1 });
 
   const founders = [
@@ -41,18 +40,6 @@ const Founders = ({ onNavigateToContact }: FoundersProps = {}) => {
         email: "Elliotte123@icloud.com"
       }
     },
-    {
-      id: 3,
-      name: "Justin De Leon",
-      title: "Co-Founder, Lead Full Stack Developer & Growth Lead",
-      image: IMAGES.founders.founder3,
-      bio: "Justin grew up playing soccer in diverse communities and experienced firsthand how the sport brings people together across all backgrounds. After struggling to find consistent games while traveling and moving to new cities, he recognized the universal challenge that soccer players face. With his background in business development and community building, Justin is passionate about creating technology that facilitates real-world connections and builds stronger local soccer communities.",
-      social: {
-        linkedin: "https://www.linkedin.com/in/justin-deleon-111306254/",
-        instagram: "https://www.instagram.com/justin_dele0n/",
-        email: "justin.y.deleon@gmail.com"
-      }
-    },
   ];
 
   return (
@@ -69,7 +56,7 @@ const Founders = ({ onNavigateToContact }: FoundersProps = {}) => {
             Meet the <span className="text-emerald-400">Founders</span>
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed">
-            Three soccer enthusiasts who turned their shared passion into a solution 
+            Two soccer enthusiasts who turned their shared passion into a solution 
             that's bringing communities together worldwide.
           </p>
         </div>
@@ -78,8 +65,8 @@ const Founders = ({ onNavigateToContact }: FoundersProps = {}) => {
         <div className="space-y-16 md:space-y-20">
           {founders.map((founder, index) => {
             // Get the appropriate ref and inView state for each founder
-            const founderRefs = [founder1Ref, founder2Ref, founder3Ref];
-            const founderInViews = [founder1InView, founder2InView, founder3InView];
+            const founderRefs = [founder1Ref, founder2Ref];
+            const founderInViews = [founder1InView, founder2InView];
             const currentRef = founderRefs[index];
             const currentInView = founderInViews[index];
             

@@ -1,5 +1,6 @@
 import Hero from './Hero';
 import TournamentAnnouncement from './TournamentAnnouncement';
+import Footer from './Footer';
 
 interface HomeProps {
   onNavigateToTournament: () => void;
@@ -14,6 +15,7 @@ const Home: React.FC<HomeProps> = ({ onNavigateToTournament, onNavigateToTournam
         onNavigateToTournament={onNavigateToTournament} 
         onNavigateToTournamentDetails={onNavigateToTournamentDetails}
       />
+      <Footer />
     </div>
   );
 };
