@@ -2,33 +2,23 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-  <!-- Favicons -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    
-  <link rel="icon" href="/images/logo/gambeta_logo_bgr_cropped.png?v=1" />
-  <link rel="shortcut icon" href="/images/logo/gambeta_logo_bgr_cropped.png?v=1" type="image/png" />
-  <link rel="icon" type="image/png" sizes="32x32" href="/images/logo/gambeta_logo_bgr_cropped.png?v=1" />
-  <link rel="icon" type="image/png" sizes="16x16" href="/images/logo/gambeta_logo_bgr_cropped.png?v=1" />
-  <link rel="apple-touch-icon" sizes="180x180" href="/images/logo/gambeta_logo_bgr_cropped.png?v=1" />
-  <meta name="theme-color" content="#0f172a" />
-
-  <!-- SEO -->
-  <meta name="description" content="Connect with local players, join events, and grow your game with Gambeta." />
-
-  <!-- Open Graph (link previews) -->
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://gambetaapp.com/" />
-  <meta property="og:title" content="Gambeta - Connect. Play. Thrive." />
-  <meta property="og:description" content="Connect with local players, join events, and grow your game with Gambeta." />
-  <meta property="og:image" content="https://gambetaapp.com/images/logo/gambeta_logo_bgr_cropped.png?v=1" />
-  <meta property="og:image:alt" content="Gambeta logo" />
-
-  <!-- Twitter Card -->
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Gambeta - Connect. Play. Thrive." />
-  <meta name="twitter:description" content="Connect with local players, join events, and grow your game with Gambeta." />
-  <meta name="twitter:image" content="https://gambetaapp.com/images/logo/gambeta_logo_bgr_cropped.png?v=1" />
     <title>Gambeta - Connect. Play. Thrive.</title>
+    <script>
+      // Single Page Apps for GitHub Pages
+      // Redirect to index.html with path in query string
+      var pathSegmentsToKeep = 0;
+      var l = window.location;
+      if (l.pathname !== '/' && !l.pathname.startsWith('/assets/') && !l.pathname.startsWith('/images/')) {
+        l.replace(
+          l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
+          '/?/' +
+          l.pathname.slice(1).split('/').join('/').replace(/&/g, '~and~') +
+          (l.search ? '&' + l.search.slice(1).replace(/&/g, '~and~') : '') +
+          l.hash
+        );
+      }
+    </script>
   </head>
   <body>
     <div id="root"></div>

@@ -11,6 +11,20 @@ import AboutPage from './routes/AboutPage.tsx'
 import AppPage from './routes/AppPage.tsx'
 import ContactPage from './routes/ContactPage.tsx'
 
+// Handle GitHub Pages 404 redirect
+// If the URL contains a query string starting with '/?/', extract the path and redirect
+(function() {
+  const location = window.location;
+  const search = location.search;
+  
+  // Check if this is a redirect from 404.html (format: /?/path/to/page)
+  if (search.startsWith('?/')) {
+    const path = search.slice(1).replace(/~and~/g, '&');
+    const newUrl = location.protocol + '//' + location.host + path + location.hash;
+    window.history.replaceState({}, '', newUrl);
+  }
+})();
+
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <BrowserRouter>
