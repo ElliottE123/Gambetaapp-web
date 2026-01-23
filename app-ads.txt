@@ -1,0 +1,9 @@
+# app-ads.txt file for Gambeta
+# This file is required by Google AdMob for apps that display ads
+# 
+# If you're using AdMob ads, add your publisher ID here in the format:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+#
+# If you're not using ads yet, this file can remain empty or contain a comment
+# 
+# For more information, visit: https://support.google.com/admob/answer/9363764
