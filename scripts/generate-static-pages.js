@@ -18,79 +18,124 @@ const effectiveDate = effectiveDateMatch ? effectiveDateMatch[1] : 'Effective: J
 const privacyPolicy = privacyPolicyMatch ? privacyPolicyMatch[1].trim() : '';
 const termsOfService = termsOfServiceMatch ? termsOfServiceMatch[1].trim() : '';
 
-// Helper function to parse policy text into HTML
+// Helper function to parse policy text into HTML (matches React component logic)
 function parsePolicyToHTML(policyText) {
   const lines = policyText.split('\n');
-  let html = '';
-  let inList = false;
   
-  // Remove embedded TABLE OF CONTENTS
+  // Remove embedded TABLE OF CONTENTS (matches React component logic)
   const filtered = [];
-  let skipToc = false;
-  for (let i = 0; i < lines.length; i++) {
-    if (lines[i].trim().toUpperCase() === 'TABLE OF CONTENTS') {
-      skipToc = true;
-      continue;
+  const start = lines.findIndex((l) => l.trim().toUpperCase() === 'TABLE OF CONTENTS');
+  if (start !== -1) {
+    let end = -1;
+    for (let j = start + 1; j < lines.length; j++) {
+      if (lines[j].trim() === '') {
+        end = j;
+        break;
+      }
     }
-    if (skipToc && lines[i].trim() === '') {
-      skipToc = false;
-      continue;
+    if (end !== -1) {
+      filtered.push(...lines.slice(0, start), ...lines.slice(end + 1));
+    } else {
+      filtered.push(...lines.slice(0, start));
     }
-    if (!skipToc) {
-      filtered.push(lines[i]);
-    }
+  } else {
+    filtered.push(...lines);
   }
   
-  for (let i = 0; i < filtered.length; i++) {
-    const line = filtered[i].trim();
-    if (!line) {
-      if (inList) {
-        html += '</ul>\n';
-        inList = false;
-      }
-      html += '<br>\n';
+  // Parse blocks (matches React component logic)
+  const TOP_HEADING_REGEX = /^\d+\.\s+(.+)$/;
+  const ALL_CAPS_HEADING = /^[A-Z0-9 '()-]+$/;
+  const blocks = [];
+  const toc = [];
+  
+  let i = 0;
+  while (i < filtered.length) {
+    const line = filtered[i].trimEnd();
+    
+    // skip empty lines
+    if (line.trim() === '') {
+      i++;
       continue;
     }
     
-    // Numbered headings (1. ...)
-    if (/^\d+\.\s+/.test(line)) {
-      if (inList) {
-        html += '</ul>\n';
-        inList = false;
-      }
-      html += `<h2 class="text-xl font-semibold text-white mt-6 mb-2">${escapeHtml(line)}</h2>\n`;
+    // Top-level numbered heading
+    const topMatch = line.match(TOP_HEADING_REGEX);
+    if (topMatch) {
+      const text = line;
+      const id = makeId(text + '-' + i);
+      blocks.push({ type: 'h2', text, id });
+      toc.push({ id, text });
+      i++;
+      continue;
     }
-    // ALL CAPS headings
-    else if (line.length > 3 && line === line.toUpperCase() && /^[A-Z0-9 '()-]+$/.test(line)) {
-      if (inList) {
-        html += '</ul>\n';
-        inList = false;
-      }
-      html += `<h3 class="text-lg font-medium text-white mt-5 mb-2">${escapeHtml(line)}</h3>\n`;
+    
+    // ALL CAPS headings (short)
+    if (line.length > 3 && line === line.toUpperCase() && ALL_CAPS_HEADING.test(line)) {
+      const text = line;
+      const id = makeId(text + '-' + i);
+      blocks.push({ type: 'h3', text, id });
+      i++;
+      continue;
     }
-    // Bullet points
-    else if (/^[•\-*]\s+/.test(line)) {
-      if (!inList) {
-        html += '<ul class="list-disc ml-6 text-slate-300 space-y-1">\n';
-        inList = true;
+    
+    // Bullet list starting with • or - or *
+    if (/^[•\-*]\s+/.test(line)) {
+      const items = [];
+      while (i < filtered.length && /^[•\-*]\s+/.test(filtered[i].trim())) {
+        items.push(filtered[i].trim().replace(/^[•\-*]\s+/, ''));
+        i++;
       }
-      html += `<li>${escapeHtml(line.replace(/^[•\-*]\s+/, ''))}</li>\n`;
+      blocks.push({ type: 'ul', items });
+      continue;
     }
-    // Regular paragraphs
-    else {
-      if (inList) {
-        html += '</ul>\n';
-        inList = false;
-      }
-      html += `<p class="text-slate-300 whitespace-pre-wrap leading-relaxed">${escapeHtml(line)}</p>\n`;
+    
+    // Otherwise, consume consecutive non-empty non-list lines into a paragraph
+    let para = line;
+    i++;
+    while (i < filtered.length && filtered[i].trim() !== '' && !TOP_HEADING_REGEX.test(filtered[i].trim()) && !/^[•\-*]\s+/.test(filtered[i].trim()) && !(filtered[i].trim() === filtered[i].trim().toUpperCase() && ALL_CAPS_HEADING.test(filtered[i].trim()))) {
+      para += ' ' + filtered[i].trim();
+      i++;
     }
+    blocks.push({ type: 'p', text: para });
   }
   
-  if (inList) {
+  // Generate HTML from blocks
+  let html = '';
+  if (toc.length > 0) {
+    html += '<nav class="mb-8 p-4 bg-slate-800/60 rounded">\n';
+    html += '<h2 class="text-lg font-semibold text-white mb-2">Table of contents</h2>\n';
+    html += '<ul class="list-disc list-inside text-slate-300 space-y-1">\n';
+    toc.forEach((item) => {
+      html += `<li><a class="text-sky-300 hover:underline cursor-pointer" href="#${item.id}">${escapeHtml(item.text)}</a></li>\n`;
+    });
     html += '</ul>\n';
+    html += '</nav>\n';
   }
+  
+  blocks.forEach((b) => {
+    if (b.type === 'h2') {
+      html += `<h2 id="${b.id}" class="text-xl font-semibold text-white mt-6 mb-2">${escapeHtml(b.text)}</h2>\n`;
+    } else if (b.type === 'h3') {
+      html += `<h3 id="${b.id}" class="text-lg font-medium text-white mt-5 mb-2">${escapeHtml(b.text)}</h3>\n`;
+    } else if (b.type === 'ul') {
+      html += '<ul class="list-disc ml-6 text-slate-300 space-y-1">\n';
+      b.items.forEach((it) => {
+        html += `<li>${escapeHtml(it)}</li>\n`;
+      });
+      html += '</ul>\n';
+    } else {
+      html += `<p class="text-slate-300 whitespace-pre-wrap leading-relaxed">${escapeHtml(b.text)}</p>\n`;
+    }
+  });
   
   return html;
+}
+
+function makeId(text) {
+  return text
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/(^-|-$)+/g, '');
 }
 
 function escapeHtml(text) {
@@ -124,14 +169,14 @@ function generatePrivacyHTML() {
     <div class="max-w-3xl mx-auto px-4 py-12 pt-24">
       <h1 class="text-3xl md:text-4xl font-bold text-white mb-2">Privacy Policy</h1>
       <p class="text-slate-400 mb-6">${escapeHtml(effectiveDate)}</p>
+      <div class="mb-4">
+        <a href="/" class="inline-flex items-center px-3 py-2 bg-slate-700 text-white rounded hover:bg-slate-600">
+          ← Back
+        </a>
+      </div>
       <article class="prose prose-invert max-w-none">
         ${policyHTML}
       </article>
-      <div class="mt-8">
-        <a href="/" class="inline-flex items-center px-3 py-2 bg-slate-700 text-white rounded hover:bg-slate-600">
-          ← Back to Home
-        </a>
-      </div>
     </div>
   </body>
 </html>`;
@@ -159,14 +204,14 @@ function generateTermsHTML() {
     <div class="max-w-3xl mx-auto px-4 py-12 pt-24">
       <h1 class="text-3xl md:text-4xl font-bold text-white mb-2">Terms of Service</h1>
       <p class="text-slate-400 mb-6">${escapeHtml(effectiveDate)}</p>
+      <div class="mb-4">
+        <a href="/" class="inline-flex items-center px-3 py-2 bg-slate-700 text-white rounded hover:bg-slate-600">
+          ← Back
+        </a>
+      </div>
       <article class="prose prose-invert max-w-none">
         ${termsHTML}
       </article>
-      <div class="mt-8">
-        <a href="/" class="inline-flex items-center px-3 py-2 bg-slate-700 text-white rounded hover:bg-slate-600">
-          ← Back to Home
-        </a>
-      </div>
     </div>
   </body>
 </html>`;
