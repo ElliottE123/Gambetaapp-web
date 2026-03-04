@@ -511,7 +511,7 @@ Parent/Guardian Name (if minor): _______________________________
 Parent/Guardian Signature (if minor): _______________________________
 
 Date: _______________________________
-`,Nd="Last updated: January 2025",yh=`
+`,Nd="Last updated: March 2026",yh=`
 Child Sexual Abuse and Exploitation (CSAE) Policy
 
 Published Standards — Gambeta (the app) and Gambeta LLC (the developer) publish the following standards, which explicitly prohibit child sexual abuse and exploitation (CSAE) and child sexual abuse material (CSAM) on our platform. Gambeta has an in-app mechanism for user feedback and reporting, a method for addressing CSAM (including removal and reporting to NCMEC and law enforcement), and complies with all applicable child safety laws and regulations.
