@@ -283,6 +283,7 @@ We process your personal information based on:
 We may share information with:
 • Service providers who assist us in operating our website and Services
 • Business partners as needed to provide Services
+• Social Soccer: we share your email address with our partner Social Soccer so they can send you their newsletter
 • Legal authorities when required by law
 • Other users of our Services (as applicable)
 
